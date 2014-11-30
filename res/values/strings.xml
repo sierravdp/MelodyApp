@@ -2,8 +2,19 @@
 <resources>
 
     <string name="app_name">MelodyApp</string>
+<<<<<<< HEAD
     <string name="play">PLAY</string>
     <string name="edit">EDIT</string>
 	<string name="action_settings">Setting</string>
     
+=======
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="section_1">Play</string>
+    <string name="section_2">Edit</string>
+    <string name="dummy_section_text">Section %1d is just a dummy section.</string>
+    <string name="demo_external_activity">Demo External Activity</string>
+    <string name="demo_collection">Demo Collection</string>
+
+>>>>>>> 08bc0f5a29c56e0e2110bcdae0f741847d3e6729
 </resources>
