@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">MelodyApp</string>
+    <string name="play">REPRODUCIR</string>
+    <string name="edit">EDITAR</string>
+    <string name="action_settings">Ajustes</string>
+    
+</resources>
