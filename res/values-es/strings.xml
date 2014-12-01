@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="app_name">MelodyApp</string>
+    <string name="play">REPRODUCIR</string>
+    <string name="edit">EDITAR</string>
+    <string name="play_tip">Toca la imagen para reproducir la canción</string>
+    <string name="edit_tip">Toca una imagen para grabar, vuelve a tocarla para dejar de grabar</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="greeting">Bienvenido</string>
+    <string name="not_found">No se encontró ninguna canción</string>
+    <string name="action_pause">Pausar</string>
+    
+</resources>

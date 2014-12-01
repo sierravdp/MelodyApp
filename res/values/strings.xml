@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MelodyApp</string>
+    <string name="play">PLAY</string>
+    <string name="edit">EDIT</string>
+    <string name="play_tip">Touch an image to play</string>
+    <string name="edit_tip">Touch an image to record, touch it again to stop recording</string>
+	<string name="action_settings">Setting</string>
+	<string name="greeting">Welcome my friend</string>
+	<string name="not_found">No sounds found</string>
+	<string name="action_pause">Pause</string>
+    
+</resources>
