@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <resources>
 
     <!--
@@ -18,3 +19,46 @@
     </style>
 
 </resources>
+=======
+<resources>
+
+<<<<<<< HEAD
+=======
+    <!--     the theme applied to the application or activity -->
+	<!--     <style name="CustomActionBarTheme" -->
+	<!--            parent="@android:style/Theme.Holo.Light.DarkActionBar"> -->
+	<!--         <item name="android:actionBarStyle">@style/MyActionBar</item> -->
+	<!--     </style> -->
+
+	<!--     ActionBar styles -->
+	<!--     <style name="MyActionBar" -->
+	<!--            parent="@android:style/Widget.Holo.Light.ActionBar.Solid.Inverse"> -->
+	<!--         <item name="android:background">@drawable/actionbar_background</item> -->
+	<!--     </style> -->
+    
+>>>>>>> 08bc0f5a29c56e0e2110bcdae0f741847d3e6729
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <!-- Application theme. -->
+<<<<<<< HEAD
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+=======
+    <style name="ActionBarStyle" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+>>>>>>> 08bc0f5a29c56e0e2110bcdae0f741847d3e6729
+</resources>
+>>>>>>> da279aa370d87a8cc37eaeaeb6d712cce08c7e69

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package com.IDSoft.melodyapp;
 
 import java.io.IOException;
@@ -164,3 +165,18 @@ public class EditActivity extends Activity{
 	}
 
 }
+=======
+package com.IDSoft.melodyapp;
+
+import android.app.Activity;
+import android.os.Bundle;
+
+public class EditActivity extends Activity{
+	
+	public void onCreate(Bundle savedInstanceState) {
+		super.onCreate(savedInstanceState);
+		setContentView(R.layout.activity_edit);
+	}
+
+}
+>>>>>>> da279aa370d87a8cc37eaeaeb6d712cce08c7e69

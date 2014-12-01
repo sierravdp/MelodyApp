@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 <GridView xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/gridview"
@@ -10,3 +11,19 @@
     android:stretchMode="columnWidth"
     android:gravity="center"
 />
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent">
+   
+  <!-- Screen Design for the Edit -->
+  <TextView android:text="@string/edit"
+            android:padding="15dip"
+            android:textSize="18sp"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"/>
+</LinearLayout>
+>>>>>>> da279aa370d87a8cc37eaeaeb6d712cce08c7e69

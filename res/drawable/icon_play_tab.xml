@@ -1,6 +1,14 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="utf-8"?>
 <selector xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:drawable="@drawable/ic_play_hover"
           android:state_selected="true" />
     <item android:drawable="@drawable/ic_play_default" />
+=======
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/ic_play_hover"
+          android:state_selected="true" />
+    <item android:drawable="@drawable/ic_play_default" />
+>>>>>>> da279aa370d87a8cc37eaeaeb6d712cce08c7e69
 </selector>

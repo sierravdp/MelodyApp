@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+<<<<<<< HEAD
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.IDSoft.melodyapp"
     android:versionCode="1"
@@ -30,3 +31,45 @@
     </application>
 
 </manifest>
+=======
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.IDSoft.melodyapp"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="16"
+        android:targetSdkVersion="21" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+<<<<<<< HEAD
+        android:theme="@style/AppTheme" >
+=======
+        android:theme="@style/ActionBarStyle" >
+        <meta-data android:name="com.google.android.gms.version"
+           android:value="@integer/google_play_services_version" />
+>>>>>>> 08bc0f5a29c56e0e2110bcdae0f741847d3e6729
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+<<<<<<< HEAD
+        <!--  Play Activity -->
+        <activity android:name=".PlayActivity" />
+         
+        <!--  Edit Activity -->
+        <activity android:name=".EditActivity" />
+=======
+>>>>>>> 08bc0f5a29c56e0e2110bcdae0f741847d3e6729
+    </application>
+
+</manifest>
+>>>>>>> da279aa370d87a8cc37eaeaeb6d712cce08c7e69
